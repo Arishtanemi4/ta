@@ -10,6 +10,10 @@ model.crf.tagger
 .DS_Store
 **/.DS_Store
 
+# Extra / Repeats
+labs/data_cache/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
